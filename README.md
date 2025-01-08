@@ -4,7 +4,7 @@
 
 ## Projects
 
-1. [간이 선풍기](./MiniFan_Project) - ATmega128과 GPIO, UART통신 등을 활용한 간이선풍기기
+1. [간이 선풍기](./MiniFan_Project/README.md) - ATmega128과 GPIO, UART통신 등을 활용한
 2. 🚧 [추가 예정] 🚧
 3. 🚧 [추가 예정] 🚧
 
