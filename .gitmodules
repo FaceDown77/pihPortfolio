@@ -1,3 +1,6 @@
 [submodule "MiniFan_Project"]
 	path = MiniFan_Project
 	url = https://github.com/FaceDown77/miniFanPJT.git
+[submodule "autonomous-driving_Project"]
+	path = autonomous-driving_Project
+	url = https://github.com/FaceDown77/intel-class-PJT03
