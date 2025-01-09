@@ -4,3 +4,6 @@
 [submodule "autonomous-driving_Project"]
 	path = autonomous-driving_Project
 	url = https://github.com/FaceDown77/intel-class-PJT03
+[submodule "iot_mailbox_Project"]
+	path = iot_mailbox_Project
+	url = https://github.com/FaceDown77/iot-mailbox_Project
