@@ -61,7 +61,8 @@
 - **특징:** GPIO 제어, UART 통신
 
 ### 🔷 **교육실습 사항**
-- **MCU 보드**
+- **SBC & MCU 보드**
+  - **Raspberr Pi 4B :** IoT 서버, GPIO 제어, 임베디드 리눅스 실습용도 활용
   - **Arduino Uno :** LED & Button 입출력 제어, PWM 서보모터 제어
   - **STM32 Nucleo F401RE :** HAL 드라이버를 이용한 GPIO, Timer, Interrupt 활용 실습
 - **임베디드 리눅스(BSP)**
@@ -72,8 +73,10 @@
 - **QT GUI**
   - **Qt Creator :** IoT 시스템 제어용 GUI 제작 및 실습
 - **ROS (by. Tutlebot3)**
-  - **ROS의 이해와 학습**
-  - **SLAM & Navigation 실습**
+  - **ROS 이론 및 예제 실습**
+  - **SLAM** 기능을 활용한 2D Mapping 실시 및 **Navigation** 동작 구현
+  - 노드 프로그램 작성 및 노드 간 메시지 통신을 통해 로봇 제어
+
 
 <!-----
 ## 📈 통계
